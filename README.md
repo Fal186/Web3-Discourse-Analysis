@@ -47,18 +47,23 @@ I benchmarked **CryptoBERT** against **RoBERTa** to determine which architecture
 
 ---
 
-##🎓 **Academic Rigor**
-This project is the technical portfolio implementation of research published in a Q1 Scopus-indexed journal.
+---
 
-Paper Title: A decision analytics framework for interpreting trust signals in decentralized digital communities
+## 🎓 Academic Rigor
+This project is the technical portfolio implementation of research published in a **Q1 Scopus-indexed journal**.
 
-Scientific Repo: For raw datasets, stratified splits, and training logs, visit the Journal Reproducibility Repository.
+* **Paper Title:** A decision analytics framework for interpreting trust signals in decentralized digital communities
+* **Scientific Repo:** For raw datasets, stratified splits, and training logs, visit the [Journal Reproducibility Repository](https://doi.org/10.1016/j.dajour.2026.100702).
 
-##**🧰 Tech Stack**
-Language: Python
+---
 
-Libraries: HuggingFace Transformers, PyTorch, Pandas, Scikit-Learn
+## 🧰 Tech Stack
+* **Language:** Python
+* **Libraries:** HuggingFace Transformers, PyTorch, Pandas, Scikit-Learn
+* **Models:** CryptoBERT, RoBERTa-base
+* **Data Sources:** X (Twitter), Reddit, YouTube, ENS DAO Forum
 
-Models: CryptoBERT, RoBERTa-base
+---
 
-Data Sources: X (Twitter), Reddit, YouTube, ENS DAO Forum
+### Developed by Muhammad Falaah
+**Aspiring Data Analyst**
