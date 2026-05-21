@@ -8,7 +8,7 @@
 ## 📌 Project Overview
 Web3 communities move at high velocity across fragmented platforms like X, Reddit, and Discord. Understanding the health of these communities requires more than simple sentiment analysis; it requires understanding context.
 
-This project introduces a **Three-Stage AI Framework** that utilizes fine-tuned Transformer models (**CryptoBERT** and **RoBERTa**) to categorize discourse into Domain, Tone, and Intent. This allows stakeholders to identify trust signals and community shifts in real-time.
+This project introduces a **Three-Stage Framework** that utilizes fine-tuned Transformer models (**CryptoBERT** and **RoBERTa**) to categorize discourse into Domain, Tone, and Intent. This allows stakeholders to identify trust signals and community shifts in real-time.
 
 ---
 
