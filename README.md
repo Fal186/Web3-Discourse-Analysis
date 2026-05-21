@@ -46,3 +46,19 @@ I benchmarked **CryptoBERT** against **RoBERTa** to determine which architecture
 | **Intent** | CryptoBERT | **0.82 ± 0.0108** | High accuracy in distinguishing Governance from Socializing or Promotion. |
 
 ---
+
+🎓 Academic Rigor
+This project is the technical portfolio implementation of research published in a Q1 Scopus-indexed journal.
+
+Paper Title: A decision analytics framework for interpreting trust signals in decentralized digital communities
+
+Scientific Repo: For raw datasets, stratified splits, and training logs, visit the Journal Reproducibility Repository.
+
+🧰 Tech Stack
+Language: Python
+
+Libraries: HuggingFace Transformers, PyTorch, Pandas, Scikit-Learn
+
+Models: CryptoBERT, RoBERTa-base
+
+Data Sources: X (Twitter), Reddit, YouTube, ENS DAO Forum
