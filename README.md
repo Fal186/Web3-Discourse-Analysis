@@ -41,8 +41,8 @@ I benchmarked **CryptoBERT** against **RoBERTa** to determine which architecture
 
 | Stage | Best Model | F1-Score | Key Insight |
 | :--- | :--- | :--- | :--- |
-| **Domain** | CryptoBERT | **0.XX** | Domain-specific pre-training significantly improved NFT and DeFi classification. |
-| **Tone** | [Model] | **0.XX** | Successfully identified institutional trust versus retail hype. |
-| **Intent** | [Model] | **0.XX** | High accuracy in distinguishing Governance from Socializing or Promotion. |
+| **Domain** | RoBERTa | **0.81 ± 0.0048** | Domain-specific pre-training significantly improved NFT and DeFi classification. |
+| **Tone** | RoBERTa | **0.80 ± 0.0043** | Successfully identified institutional trust versus retail hype. |
+| **Intent** | CryptoBERT | **0.82 ± 0.0108** | High accuracy in distinguishing Governance from Socializing or Promotion. |
 
 ---
