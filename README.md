@@ -53,7 +53,7 @@ I benchmarked **CryptoBERT** against **RoBERTa** to determine which architecture
 This project is the technical portfolio implementation of research published in a **Q1 Scopus-indexed journal**.
 
 * **Paper Title:** A decision analytics framework for interpreting trust signals in decentralized digital communities
-* **Scientific Repo:** For raw datasets, stratified splits, and training logs, visit the [Journal Reproducibility Repository](https://doi.org/10.1016/j.dajour.2026.100702).
+* **Scientific Repo:** For raw datasets, stratified splits, and training logs, visit the [Journal Reproducibility Repository](https://github.com/Fal186/Mapping-web3).
 
 ---
 
